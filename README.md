@@ -2,7 +2,7 @@
 
 view presentation [here](https://docs.google.com/presentation/d/1fjv7qVi1ZEvft5XlLMwKi0JUg2-dn7IkPjJeU98UnNU/edit?usp=sharing)
 
-view story map [here]
+view story map [here](https://arcg.is/1vjjyi3)
 
 view data sets for 2012 population and insurance coverage [here](https://drive.google.com/file/d/1DkIEC5S0RZOlb3rrcv7hZ2grBr2VPZA3/view?usp=sharing)
 
